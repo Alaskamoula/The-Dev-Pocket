@@ -1,0 +1,161 @@
+[
+  {
+    "category": "Web Development",
+    "description": "Master modern web development from frontend to backend",
+    "icon": "🌐",
+    "color": "blue",
+    "milestones": [
+      {
+        "title": "HTML & CSS Fundamentals",
+        "description": "Learn the building blocks of web pages",
+        "badge": "🏗️ Foundation Builder",
+        "skills": ["HTML5", "CSS3"]
+      },
+      {
+        "title": "JavaScript Mastery",
+        "description": "Master JavaScript ES6+ and modern features",
+        "badge": "⚡ JavaScript Ninja",
+        "skills": ["JavaScript (ES6+)"]
+      },
+      {
+        "title": "React Development",
+        "description": "Build interactive UIs with React",
+        "badge": "⚛️ React Architect",
+        "skills": ["React", "TypeScript"]
+      },
+      {
+        "title": "Backend with Node.js",
+        "description": "Create server-side applications",
+        "badge": "🚀 Backend Engineer",
+        "skills": ["Node.js", "Express.js"]
+      },
+      {
+        "title": "Database Mastery",
+        "description": "Work with both SQL and NoSQL databases",
+        "badge": "💾 Database Expert",
+        "skills": ["MongoDB", "SQL Databases"]
+      },
+      {
+        "title": "DevOps & Deployment",
+        "description": "Deploy and manage applications in the cloud",
+        "badge": "☁️ Cloud Architect",
+        "skills": ["Docker", "AWS Basics"]
+      }
+    ]
+  },
+  {
+    "category": "AI & Machine Learning",
+    "description": "Explore artificial intelligence and machine learning",
+    "icon": "🤖",
+    "color": "purple",
+    "milestones": [
+      {
+        "title": "Python Basics",
+        "description": "Master Python programming fundamentals",
+        "badge": "🐍 Python Developer",
+        "skills": ["Python"]
+      },
+      {
+        "title": "Data Science Fundamentals",
+        "description": "Learn data analysis and visualization",
+        "badge": "📊 Data Analyst",
+        "skills": ["Python"]
+      },
+      {
+        "title": "Machine Learning",
+        "description": "Build ML models with scikit-learn and TensorFlow",
+        "badge": "🧠 ML Practitioner",
+        "skills": ["Python"]
+      },
+      {
+        "title": "Deep Learning",
+        "description": "Dive into neural networks and deep learning",
+        "badge": "🎯 Deep Learning Expert",
+        "skills": ["Python"]
+      },
+      {
+        "title": "AI Applications",
+        "description": "Build real-world AI applications",
+        "badge": "🌟 AI Innovator",
+        "skills": ["Python"]
+      }
+    ]
+  },
+  {
+    "category": "Cybersecurity",
+    "description": "Protect systems and networks from threats",
+    "icon": "🔒",
+    "color": "red",
+    "milestones": [
+      {
+        "title": "Security Fundamentals",
+        "description": "Understand core security concepts",
+        "badge": "🛡️ Security Basics",
+        "skills": []
+      },
+      {
+        "title": "Network Security",
+        "description": "Learn about network vulnerabilities and protection",
+        "badge": "🌐 Network Guardian",
+        "skills": []
+      },
+      {
+        "title": "Web Application Security",
+        "description": "Secure web applications from attacks",
+        "badge": "🔐 Web Security Expert",
+        "skills": ["JavaScript (ES6+)", "Node.js"]
+      },
+      {
+        "title": "Penetration Testing",
+        "description": "Ethical hacking and vulnerability assessment",
+        "badge": "🎯 Ethical Hacker",
+        "skills": []
+      },
+      {
+        "title": "Security Architecture",
+        "description": "Design secure systems and infrastructure",
+        "badge": "🏛️ Security Architect",
+        "skills": []
+      }
+    ]
+  },
+  {
+    "category": "Mobile Development",
+    "description": "Build mobile applications for iOS and Android",
+    "icon": "📱",
+    "color": "green",
+    "milestones": [
+      {
+        "title": "Mobile Development Basics",
+        "description": "Introduction to mobile app development",
+        "badge": "📱 Mobile Basics",
+        "skills": []
+      },
+      {
+        "title": "React Native",
+        "description": "Build cross-platform mobile apps",
+        "badge": "⚛️ React Native Dev",
+        "skills": ["React", "JavaScript (ES6+)"]
+      },
+      {
+        "title": "Native iOS Development",
+        "description": "Build iOS apps with Swift",
+        "badge": "🍎 iOS Developer",
+        "skills": []
+      },
+      {
+        "title": "Native Android Development",
+        "description": "Build Android apps with Kotlin",
+        "badge": "🤖 Android Developer",
+        "skills": []
+      },
+      {
+        "title": "Mobile App Deployment",
+        "description": "Publish apps to app stores",
+        "badge": "🚀 Published Developer",
+        "skills": []
+      }
+    ]
+  }
+]
+
