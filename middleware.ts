@@ -5,6 +5,7 @@ const isPublicRoute = createRouteMatcher([
   '/about(.*)',
   '/sign-in(.*)',
   '/sign-up(.*)',
+  '/create-roadmap',
   // Add other public routes here
 ])
 
