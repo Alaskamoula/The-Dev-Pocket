@@ -24,13 +24,15 @@ import {
   UserPlus,
   Zap,
   MapPin,
-  ArrowRight
+  ArrowRight,
+  GraduationCap
 } from "lucide-react"
 
 import { UserButton } from "@clerk/nextjs";
 
 const sidebarLinks = [
   { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard, tooltip: "Overview" },
+  { name: "Learning Paths", href: "/dashboard/learning-paths", icon: GraduationCap, tooltip: "Track your learning progress" },
   { name: "AI Project Recommender", href: "/dashboard/projects", icon: Bot, tooltip: "Get AI project suggestions" },
   { name: "Quiz Center", href: "/dashboard/quiz", icon: Brain, tooltip: "Test your knowledge" },
   { name: "Resume Builder", href: "/dashboard/resume", icon: FileText, tooltip: "Build your resume" },
@@ -41,6 +43,16 @@ const sidebarLinks = [
 
 // Enhanced Quick Actions data with better organization make it more interactive and visually appealing
 const quickActions = [
+  {
+    id: "learning-paths",
+    title: "Learning Paths",
+    subtitle: "Track your progress",
+    icon: GraduationCap,
+    href: "/dashboard/learning-paths",
+    gradient: "from-indigo-500 via-purple-600 to-pink-600",
+    hoverGradient: "from-indigo-600 via-purple-700 to-pink-700",
+    category: "Learning"
+  },
   {
     id: "create-roadmap",
     title: "Create Roadmap",
