@@ -154,13 +154,13 @@ const App = () => {
                Dev Pocket centralizes learning, personalized roadmaps, job
                updates, and powerful resume tools—all in one smart dashboard.
              </p>
-             <a
+             <Link
               href="/sign-in"
               className="inline-block bg-sky-600 text-white text-base font-semibold py-2.5 px-6 rounded-full shadow-2xl hover:bg-sky-700 transition-transform transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-sky-300 focus:ring-opacity-50"
               aria-describedby="pricing-section"
              >
                Get Started Free
-             </a>
+             </Link>
            </div>
           <div className="mt-8 sm:mt-12 relative w-full max-w-4xl mx-auto">
              
@@ -453,13 +453,13 @@ const App = () => {
                <span aria-label="0 dollars">$0</span>
                <span className="text-base font-medium text-gray-500">/mo</span>
              </p>
-             <a
+             <Link
               href="/sign-in?plan=hobby"
               className="w-full inline-block bg-gray-100 text-gray-700 font-bold py-2.5 px-6 rounded-full hover:bg-gray-200 transition-colors focus:outline-none focus:ring-4 focus:ring-gray-300 focus:ring-opacity-50"
               aria-describedby="hobby-plan"
             >
               Get Started
-            </a>
+            </Link>
           </div>
            {/* Pro Plan */}
            <div className="border-2 border-sky-500 rounded-2xl p-6 relative shadow-2xl" role="article" aria-labelledby="pro-plan">
