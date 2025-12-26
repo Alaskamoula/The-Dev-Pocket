@@ -44,6 +44,21 @@ The Dev Pocket includes a range of resources and tools to aid your learning:
 - **Interactive Tools:** Quizzes and challenges to help reinforce your learning.
 - **Community Contributions:** Add your resources and share with others.
 - **Hacktoberfest Participation:** Join a global community of open-source contributors.
+- **AI-Powered Learning Assistant:** Personalized study plans, curated resources, and coding exercises at `/assistant`.
+
+### 🔧 AI Assistant Setup
+
+To enable the AI Learning Assistant, set your OpenAI API key in your environment:
+
+1. Create a `.env.local` file in the project root with:
+
+   ```
+   OPENAI_API_KEY=YOUR_KEY_HERE
+   ```
+
+2. Run the app as usual. Visit `/assistant` to use the assistant.
+
+If you deploy, add `OPENAI_API_KEY` to your hosting provider's environment variables.
 
 ## 💬 Support and Contributions
 
